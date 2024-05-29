@@ -1,0 +1,4 @@
+1..open file tab and click om local repository
+ypur have to select your directory
+open vs code and write your code
+and message and push:
